@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rskaryawan" value="name:id_karyawan;datatype:int,name:namalengkap;datatype:string,name:alamat;datatype:string,name:tgllahir;datatype:date,name:idakseslavel;datatype:int,name:email;datatype:string,name:password;datatype:string,name:status;datatype:string,name:tglbergabung;datatype:date" />
+</info>

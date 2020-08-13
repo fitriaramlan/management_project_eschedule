@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_vwproject" value="name:id_project;datatype:int,name:namaproject;datatype:string,name:tglmulai;datatype:date,name:tglakhir;datatype:date,name:id_karyawan;datatype:int,name:namalengkap;datatype:string,name:akseslavel;datatype:string,name:hari;datatype:int,name:warna;datatype:string" />
+	<infoitem key="UD_rsjab" value="name:idakseslavel;datatype:int,name:akseslavel;datatype:string" />
+	<infoitem key="UD_rspj" value="name:id_karyawan;datatype:int,name:namalengkap;datatype:string,name:alamat;datatype:string,name:tgllahir;datatype:date,name:idakseslavel;datatype:int,name:email;datatype:string,name:password;datatype:string,name:status;datatype:string,name:tglbergabung;datatype:date" />
+</info>

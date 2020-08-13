@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_vwproject" value="name:id_project;datatype:int,name:namaproject;datatype:string,name:tglmulai;datatype:date,name:tglakhir;datatype:date,name:id_karyawan;datatype:int,name:namalengkap;datatype:string,name:akseslavel;datatype:string" />
+	<infoitem key="UD_rskaryawan" value="name:id_karyawan;datatype:int,name:namalengkap;datatype:string,name:alamat;datatype:string,name:tgllahir;datatype:date,name:idakseslavel;datatype:int,name:email;datatype:string,name:password;datatype:string,name:status;datatype:string,name:tglbergabung;datatype:date" />
+	<infoitem key="UD_vwpekerjaan" value="name:id_pekerajaan;datatype:int,name:id_project;datatype:int,name:namapekerjaan;datatype:string,name:status;datatype:string,name:id_karyawan;datatype:int,name:namaproject;datatype:string,name:namalengkap;datatype:string" />
+	<infoitem key="UD_rskomentar" value="name:id_komentar;datatype:int,name:id_project;datatype:int,name:id_karyawan;datatype:int,name:komentar;datatype:blob,name:tglinput;datatype:date" />
+	<infoitem key="UD_vwkomentar" value="name:id_komentar;datatype:int,name:id_project;datatype:int,name:id_karyawan;datatype:int,name:komentar;datatype:blob,name:tglinput;datatype:date,name:namaproject;datatype:string,name:namalengkap;datatype:string" />
+</info>
